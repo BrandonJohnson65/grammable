@@ -1,7 +1,3 @@
-require 'rails_helper'
+RSpec.describe GramsHelper, type: :helper do
 
-RSpec.describe GramsController, type: :controller do
-  describe "grams#index action" do
-
-  end
 end
